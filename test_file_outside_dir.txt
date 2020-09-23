@@ -1,1 +1,4 @@
 I am outside the directory in test_repo_b
+
+
+I am a new line
